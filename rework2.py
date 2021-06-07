@@ -1,3 +1,7 @@
+'''
+A simple detection idea for ants to find food
+'''
+
 import pygame,time
 from math import atan, pi, sin, cos, tan
 from pygame import draw
